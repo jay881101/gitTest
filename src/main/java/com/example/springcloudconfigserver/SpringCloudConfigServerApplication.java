@@ -12,7 +12,7 @@ public class SpringCloudConfigServerApplication {
     /**
      * demo-test
      * http://127.0.0.1:9005/config-demo.properties
-     * word: hello world1
+     * word: hello world
      */
     public static void main(String[] args) {
         SpringApplication.run(SpringCloudConfigServerApplication.class, args);
